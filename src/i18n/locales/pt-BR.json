@@ -1,0 +1,131 @@
+{
+  "navbar": {
+    "logo": "CheckSpeech AI",
+    "solutions": "Soluções",
+    "clients": "Clientes",
+    "pricing": "Preços",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Transforme voz em insights com Inteligência Artificial",
+    "description": "CheckSpeech AI oferece APIs avançadas de transcrição de fala, identificação de idiomas e análise de sentimento. Treinado em mais de 500.000 horas de áudios com suporte a 52 idiomas.",
+    "cta": "Teste Grátis",
+    "stats": [
+      { "number": "500K+", "label": "Horas de treinamento" },
+      { "number": "52", "label": "Idiomas suportados" },
+      { "number": "99.9%", "label": "Taxa de acurácia" }
+    ]
+  },
+  "solutions": {
+    "title": "Nossas Soluções",
+    "description": "Tudo que você precisa para transformar áudio em insights acionáveis",
+    "items": [
+      {
+        "icon": "📁",
+        "title": "Transcrição Assíncrona",
+        "description": "API de transcrição de voz para áudio pré-gravado com uma das melhores engines de reconhecimento de fala do mundo.",
+        "details": "Ideal para extrair insights de áudio ou transcrever conteúdo em escala."
+      },
+      {
+        "icon": "🎬",
+        "title": "Transcrição em Tempo Real",
+        "description": "Live speech-to-text com legendas em tempo real para palestras e treinamentos.",
+        "details": "Garanta acessibilidade e crie um arquivo para uso futuro."
+      },
+      {
+        "icon": "🌍",
+        "title": "Identificação de Idiomas",
+        "description": "Reconheça automaticamente o idioma do áudio entre 52 opções suportadas.",
+        "details": "Obtenha insights de fala a nível global com precisão."
+      },
+      {
+        "icon": "💡",
+        "title": "Análise de Sentimento",
+        "description": "Encontre os momentos mais importantes em trechos de fala e diferencie sentimentos.",
+        "details": "Tome decisões de negócios mais assertivas com análise profunda."
+      }
+    ]
+  },
+  "clients": {
+    "title": "Quem já usa CheckSpeech AI",
+    "description": "Empresas líderes confiam em nossas soluções"
+  },
+  "pricing": {
+    "title": "Planos de Preço",
+    "description": "Escolha o plano ideal para seu negócio",
+    "plans": [
+      {
+        "name": "Beginner",
+        "monthlyPrice": "R$ 29",
+        "annualPrice": "R$ 328",
+        "monthlyLabel": "por mês",
+        "annualLabel": "por ano",
+        "button": "Começar",
+        "features": [
+          "Transcrição Assíncrona - 120 min (R$0,20/min excedente)",
+          "Transcrição Tempo Real - 90 min (R$0,40/min excedente)",
+          "Identificação de Idiomas - 200 min (R$0,05/min excedente)",
+          "Análise de Sentimento - 120 min (R$0,40/min excedente)"
+        ]
+      },
+      {
+        "name": "Business",
+        "monthlyPrice": "R$ 44",
+        "annualPrice": "R$ 499",
+        "monthlyLabel": "por mês",
+        "annualLabel": "por ano",
+        "badge": "Mais Popular",
+        "button": "Começar",
+        "features": [
+          "Transcrição Assíncrona - 200 min (R$0,15/min excedente)",
+          "Transcrição Tempo Real - 120 min (R$0,40/min excedente)",
+          "Identificação de Idiomas - 500 min (R$0,03/min excedente)",
+          "Análise de Sentimento - 200 min (R$0,35/min excedente)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Sob Consulta",
+        "button": "Falar com especialista",
+        "features": [
+          "Preços especiais para grandes volumes",
+          "Prioridade no suporte técnico",
+          "Gestor de conta dedicado",
+          "Integrações customizadas"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Fale com nosso time",
+    "description": "Preencha o formulário e um especialista entrará em contato em breve",
+    "form": {
+      "name": "Nome completo",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "country": "País",
+      "message": "Mensagem",
+      "gdpr": "Eu concordo com a Política de Privacidade",
+      "captcha": "Qual é o resultado de",
+      "submit": "Enviar",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada com sucesso!",
+      "error": "Erro ao enviar mensagem. Tente novamente."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 CheckSpeech AI. Todos os direitos reservados.",
+    "menu": {
+      "solutions": "Soluções",
+      "clients": "Clientes",
+      "pricing": "Preços",
+      "contact": "Contato"
+    },
+    "social": "Siga-nos nas redes sociais"
+  },
+  "cookies": {
+    "message": "Utilizamos cookies para melhorar sua experiência e análise de site. Ao continuar navegando, você concorda com nossa política.",
+    "accept": "Aceitar",
+    "reject": "Rejeitar"
+  }
+}

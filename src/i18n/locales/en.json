@@ -1,0 +1,131 @@
+{
+  "navbar": {
+    "logo": "CheckSpeech AI",
+    "solutions": "Solutions",
+    "clients": "Clients",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform voice into insights with Artificial Intelligence",
+    "description": "CheckSpeech AI offers advanced APIs for speech transcription, language identification, and sentiment analysis. Trained on over 500,000 hours of audio with support for 52 languages.",
+    "cta": "Try Free",
+    "stats": [
+      { "number": "500K+", "label": "Hours of training" },
+      { "number": "52", "label": "Supported languages" },
+      { "number": "99.9%", "label": "Accuracy rate" }
+    ]
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "description": "Everything you need to transform audio into actionable insights",
+    "items": [
+      {
+        "icon": "📁",
+        "title": "Asynchronous Transcription",
+        "description": "Voice transcription API for pre-recorded audio with one of the world's best speech recognition engines.",
+        "details": "Ideal for extracting insights from audio or transcribing content at scale."
+      },
+      {
+        "icon": "🎬",
+        "title": "Real-time Transcription",
+        "description": "Live speech-to-text with real-time captions for lectures and training.",
+        "details": "Ensure accessibility and create a file for future use."
+      },
+      {
+        "icon": "🌍",
+        "title": "Language Identification",
+        "description": "Automatically recognize the audio language among 52 supported options.",
+        "details": "Get speech insights at a global level with precision."
+      },
+      {
+        "icon": "💡",
+        "title": "Sentiment Analysis",
+        "description": "Find the most important moments in speech segments and differentiate sentiments.",
+        "details": "Make more assertive business decisions with deep analysis."
+      }
+    ]
+  },
+  "clients": {
+    "title": "Who already uses CheckSpeech AI",
+    "description": "Leading companies trust our solutions"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "description": "Choose the perfect plan for your business",
+    "plans": [
+      {
+        "name": "Beginner",
+        "monthlyPrice": "$29",
+        "annualPrice": "$328",
+        "monthlyLabel": "per month",
+        "annualLabel": "per year",
+        "button": "Get Started",
+        "features": [
+          "Asynchronous Transcription - 120 min ($0.20/min overage)",
+          "Real-time Transcription - 90 min ($0.40/min overage)",
+          "Language Identification - 200 min ($0.05/min overage)",
+          "Sentiment Analysis - 120 min ($0.40/min overage)"
+        ]
+      },
+      {
+        "name": "Business",
+        "monthlyPrice": "$44",
+        "annualPrice": "$499",
+        "monthlyLabel": "per month",
+        "annualLabel": "per year",
+        "badge": "Most Popular",
+        "button": "Get Started",
+        "features": [
+          "Asynchronous Transcription - 200 min ($0.15/min overage)",
+          "Real-time Transcription - 120 min ($0.40/min overage)",
+          "Language Identification - 500 min ($0.03/min overage)",
+          "Sentiment Analysis - 200 min ($0.35/min overage)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Contact us",
+        "button": "Talk to specialist",
+        "features": [
+          "Special pricing for large volumes",
+          "Priority technical support",
+          "Dedicated account manager",
+          "Custom integrations"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Talk to our team",
+    "description": "Fill out the form and a specialist will contact you shortly",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "message": "Message",
+      "gdpr": "I agree with the Privacy Policy",
+      "captcha": "What is the result of",
+      "submit": "Send",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 CheckSpeech AI. All rights reserved.",
+    "menu": {
+      "solutions": "Solutions",
+      "clients": "Clients",
+      "pricing": "Pricing",
+      "contact": "Contact"
+    },
+    "social": "Follow us on social media"
+  },
+  "cookies": {
+    "message": "We use cookies to improve your experience and site analysis. By continuing to browse, you agree with our policy.",
+    "accept": "Accept",
+    "reject": "Reject"
+  }
+}
